@@ -142,4 +142,3 @@ class FlxVideo extends FlxBasic {
 		}
 	#end
 	#end
-}
